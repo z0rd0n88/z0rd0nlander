@@ -15,11 +15,116 @@
         "ref": "main"
       },
       "description": "Skills for ideation, critique, strategic analysis, comparison, hackathon idea generation and judging, and usage reflection.",
-      "author": {
-        "name": "z0rd0n88"
-      },
+      "author": { "name": "z0rd0n88" },
       "homepage": "https://github.com/z0rd0n88/think-time",
       "license": "MIT"
+    },
+    {
+      "name": "idea-autopsy",
+      "source": { "source": "github", "repo": "z0rd0n88/idea-autopsy" },
+      "description": "Evidence-based idea assessment, user decisions, and agent-written revisions across four connected skills.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/idea-autopsy"
+    },
+    {
+      "name": "idea-autopsy-business",
+      "source": { "source": "github", "repo": "z0rd0n88/idea-autopsy-business" },
+      "description": "The business-proposal edition of idea-autopsy: evidence-based assessment, user decisions, and agent-written revisions.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/idea-autopsy-business"
+    },
+    {
+      "name": "lil-pstack",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/z0rd0n88/lil-pstack.git",
+        "path": "plugins/lil-pstack",
+        "ref": "main"
+      },
+      "description": "Lean fork of pstack-claude: hand-picked skills for PR shepherding, context recall, blast-radius analysis, subsystem explainers and adversarial review.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/lil-pstack",
+      "license": "MIT"
+    },
+    {
+      "name": "mod-divider",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/z0rd0n88/claude-mod-ity.git",
+        "path": "mods/mod-divider",
+        "ref": "main"
+      },
+      "description": "Draws a divider line, in a character you choose, between the bands other mods show above the prompt.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/claude-mod-ity"
+    },
+    {
+      "name": "github-panel",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/z0rd0n88/claude-mod-ity.git",
+        "path": "mods/github-panel",
+        "ref": "main"
+      },
+      "description": "GitHub issues assigned to you, in a pane inside Claude Code and Claude Desktop. A button above the prompt toggles it.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/claude-mod-ity"
+    },
+    {
+      "name": "compact-courier",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/z0rd0n88/claude-mod-ity.git",
+        "path": "mods/compact-courier",
+        "ref": "main"
+      },
+      "description": "A Compact button in the prompt footer: Haiku summarizes the session in detail and that summary becomes the compaction.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/claude-mod-ity"
+    },
+    {
+      "name": "jev-pruner",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/z0rd0n88/JevDev.git",
+        "path": "pruner",
+        "ref": "main"
+      },
+      "description": "Trims long Bash output with Jev through OpenRouter before the model sees it.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/JevDev"
+    },
+    {
+      "name": "session-stickler",
+      "source": { "source": "github", "repo": "z0rd0n88/session-stickler" },
+      "strict": false,
+      "description": "Manage background agent sessions: free memory under RAM pressure, relay to them without tmux, and hand work to a new session.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/session-stickler"
+    },
+    {
+      "name": "blast-off",
+      "source": { "source": "github", "repo": "z0rd0n88/blast-off" },
+      "strict": false,
+      "description": "Runs a multi-phase coding job unattended overnight as a chain of Claude sessions under systemd.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/blast-off"
+    },
+    {
+      "name": "yt-eval",
+      "source": { "source": "github", "repo": "z0rd0n88/yt-eval" },
+      "strict": false,
+      "description": "Turns YouTube videos into a fact-checked writeup, or just their transcript.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/yt-eval"
+    },
+    {
+      "name": "my-skills",
+      "source": { "source": "github", "repo": "z0rd0n88/my-skills" },
+      "strict": false,
+      "description": "Personal agent skills, plus credited copies of addyosmani, Iron-Ham and mattpocock skills.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/my-skills"
     }
   ]
 }

@@ -7,6 +7,19 @@ One Claude Code marketplace for every plugin, skill and agent by z0rd0n88. Each 
 /plugin install ThinkTime@z0rd0nlander
 ```
 
-| Plugin | Repo |
-|---|---|
-| ThinkTime | [z0rd0n88/think-time](https://github.com/z0rd0n88/think-time) |
+Some source repos are private, so only people with access to them can install those plugins.
+
+| Plugin | What it is | Repo |
+|---|---|---|
+| ThinkTime | Ideation, critique, SWOT, comparison and hackathon skills | [z0rd0n88/think-time](https://github.com/z0rd0n88/think-time) |
+| idea-autopsy | Evidence-based idea assessment and revision | [z0rd0n88/idea-autopsy](https://github.com/z0rd0n88/idea-autopsy) |
+| idea-autopsy-business | The business-proposal edition of idea-autopsy | [z0rd0n88/idea-autopsy-business](https://github.com/z0rd0n88/idea-autopsy-business) |
+| lil-pstack | Lean fork of [pstack-claude](https://github.com/michael-denyer/pstack-claude) by michael-denyer | [z0rd0n88/lil-pstack](https://github.com/z0rd0n88/lil-pstack) |
+| mod-divider | Divider line between mod bands | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
+| github-panel | Your assigned GitHub issues in a pane | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
+| compact-courier | A Compact button that summarizes with Haiku | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
+| jev-pruner | Trims long Bash output with Jev | [z0rd0n88/JevDev](https://github.com/z0rd0n88/JevDev) |
+| session-stickler | Manage background agent sessions | [z0rd0n88/session-stickler](https://github.com/z0rd0n88/session-stickler) |
+| blast-off | Run a multi-phase coding job unattended overnight | [z0rd0n88/blast-off](https://github.com/z0rd0n88/blast-off) |
+| yt-eval | YouTube videos into a fact-checked writeup | [z0rd0n88/yt-eval](https://github.com/z0rd0n88/yt-eval) |
+| my-skills | Personal skills plus credited third-party copies | [z0rd0n88/my-skills](https://github.com/z0rd0n88/my-skills) |

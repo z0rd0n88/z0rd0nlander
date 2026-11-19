@@ -83,6 +83,18 @@
       "homepage": "https://github.com/z0rd0n88/claude-mod-ity"
     },
     {
+      "name": "next-action-hero",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/z0rd0n88/claude-mod-ity.git",
+        "path": "mods/next-action-hero",
+        "ref": "main"
+      },
+      "description": "Buttons above the prompt for the choices Claude's last reply offered: yes/no, A/B/C, list items, Next: lines. A click sends that choice as your prompt.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/claude-mod-ity"
+    },
+    {
       "name": "jev-pruner",
       "source": {
         "source": "git-subdir",

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "z0rd0nlander",
+  "description": "Every Claude Code plugin, skill and agent by z0rd0n88, in one marketplace. Each plugin stays in its own repo.",
+  "owner": {
+    "name": "z0rd0n88"
+  },
+  "plugins": [
+    {
+      "name": "ThinkTime",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/z0rd0n88/think-time.git",
+        "path": "ThinkTime",
+        "ref": "main"
+      },
+      "description": "Skills for ideation, critique, strategic analysis, comparison, hackathon idea generation and judging, and usage reflection.",
+      "author": {
+        "name": "z0rd0n88"
+      },
+      "homepage": "https://github.com/z0rd0n88/think-time",
+      "license": "MIT"
+    }
+  ]
+}

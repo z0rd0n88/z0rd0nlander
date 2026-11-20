@@ -19,6 +19,7 @@ Some source repos are private, so only people with access to them can install th
 | github-panel | Your assigned GitHub issues in a pane | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
 | compact-courier | A Compact button that summarizes with Haiku | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
 | next-action-hero | Buttons for the choices Claude's last reply offered | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
+| fraktur-footer | Footer mode labels in Fraktur letters | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
 | jev-pruner | Trims long Bash output with Jev | [z0rd0n88/JevDev](https://github.com/z0rd0n88/JevDev) |
 | session-stickler | Manage background agent sessions | [z0rd0n88/session-stickler](https://github.com/z0rd0n88/session-stickler) |
 | blast-off | Run a multi-phase coding job unattended overnight | [z0rd0n88/blast-off](https://github.com/z0rd0n88/blast-off) |

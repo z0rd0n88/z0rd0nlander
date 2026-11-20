@@ -95,6 +95,18 @@
       "homepage": "https://github.com/z0rd0n88/claude-mod-ity"
     },
     {
+      "name": "fraktur-footer",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/z0rd0n88/claude-mod-ity.git",
+        "path": "mods/fraktur-footer",
+        "ref": "main"
+      },
+      "description": "Draws the prompt footer's mode labels (focus, memory paused) in the Fraktur letters of the GH and Compact buttons.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/claude-mod-ity"
+    },
+    {
       "name": "jev-pruner",
       "source": {
         "source": "git-subdir",

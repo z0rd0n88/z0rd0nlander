@@ -21,6 +21,7 @@ Some source repos are private, so only people with access to them can install th
 | next-action-hero | Buttons for the choices Claude's last reply offered | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
 | fraktur-footer | Footer mode labels in Fraktur letters | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
 | jev-pruner | Trims long Bash output with Jev | [z0rd0n88/JevDev](https://github.com/z0rd0n88/JevDev) |
+| jev | Jev skills, CLIs, and opt-in router, sentinel and advisor hooks | [z0rd0n88/JevDev](https://github.com/z0rd0n88/JevDev) |
 | session-stickler | Manage background agent sessions | [z0rd0n88/session-stickler](https://github.com/z0rd0n88/session-stickler) |
 | blast-off | Run a multi-phase coding job unattended overnight | [z0rd0n88/blast-off](https://github.com/z0rd0n88/blast-off) |
 | yt-eval | YouTube videos into a fact-checked writeup | [z0rd0n88/yt-eval](https://github.com/z0rd0n88/yt-eval) |

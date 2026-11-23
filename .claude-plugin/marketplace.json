@@ -119,6 +119,13 @@
       "homepage": "https://github.com/z0rd0n88/JevDev"
     },
     {
+      "name": "jev",
+      "source": { "source": "github", "repo": "z0rd0n88/JevDev" },
+      "description": "Jev skills (ask-jev, hyper-jev), the jev and ask-jev-files CLIs, and opt-in skill router, Scope Sentinel and compaction advisor hooks.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/JevDev"
+    },
+    {
       "name": "session-stickler",
       "source": { "source": "github", "repo": "z0rd0n88/session-stickler" },
       "strict": false,

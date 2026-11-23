@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "ThinkTime",
+      "name": "think-time",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/z0rd0n88/think-time.git",

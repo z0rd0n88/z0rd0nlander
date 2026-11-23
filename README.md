@@ -25,3 +25,4 @@ Some source repos are private, so only people with access to them can install th
 | blast-off | Run a multi-phase coding job unattended overnight | [z0rd0n88/blast-off](https://github.com/z0rd0n88/blast-off) |
 | yt-eval | YouTube videos into a fact-checked writeup | [z0rd0n88/yt-eval](https://github.com/z0rd0n88/yt-eval) |
 | my-skills | Personal skills plus credited third-party copies | [z0rd0n88/my-skills](https://github.com/z0rd0n88/my-skills) |
+| inventory | One file listing every hook, skill, plugin, agent and MCP server in scope | [z0rd0n88/claude-code-inventory](https://github.com/z0rd0n88/claude-code-inventory) |

@@ -149,6 +149,14 @@
       "description": "Personal agent skills, plus credited copies of addyosmani, Iron-Ham and mattpocock skills.",
       "author": { "name": "z0rd0n88" },
       "homepage": "https://github.com/z0rd0n88/my-skills"
+    },
+    {
+      "name": "inventory",
+      "source": { "source": "github", "repo": "z0rd0n88/claude-code-inventory" },
+      "strict": false,
+      "description": "Writes .CLAUDE.inventory.md: every hook, skill, plugin, agent and MCP server Claude Code runs, by scope, tagged installed or custom.",
+      "author": { "name": "z0rd0n88" },
+      "homepage": "https://github.com/z0rd0n88/claude-code-inventory"
     }
   ]
 }

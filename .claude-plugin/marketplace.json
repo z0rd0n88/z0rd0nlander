@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "ThinkTime",
+      "name": "think-time",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/z0rd0n88/think-time.git",
@@ -117,29 +117,6 @@
       "description": "Trims long Bash output with Jev through OpenRouter before the model sees it.",
       "author": { "name": "z0rd0n88" },
       "homepage": "https://github.com/z0rd0n88/JevDev"
-    },
-    {
-      "name": "jev",
-      "source": { "source": "github", "repo": "z0rd0n88/JevDev" },
-      "description": "Jev skills (ask-jev, hyper-jev), the jev and ask-jev-files CLIs, and opt-in skill router, Scope Sentinel and compaction advisor hooks.",
-      "author": { "name": "z0rd0n88" },
-      "homepage": "https://github.com/z0rd0n88/JevDev"
-    },
-    {
-      "name": "session-stickler",
-      "source": { "source": "github", "repo": "z0rd0n88/session-stickler" },
-      "strict": false,
-      "description": "Manage background agent sessions: free memory under RAM pressure, relay to them without tmux, and hand work to a new session.",
-      "author": { "name": "z0rd0n88" },
-      "homepage": "https://github.com/z0rd0n88/session-stickler"
-    },
-    {
-      "name": "blast-off",
-      "source": { "source": "github", "repo": "z0rd0n88/blast-off" },
-      "strict": false,
-      "description": "Runs a multi-phase coding job unattended overnight as a chain of Claude sessions under systemd.",
-      "author": { "name": "z0rd0n88" },
-      "homepage": "https://github.com/z0rd0n88/blast-off"
     },
     {
       "name": "yt-eval",

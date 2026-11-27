@@ -126,14 +126,6 @@
       "homepage": "https://github.com/z0rd0n88/JevDev"
     },
     {
-      "name": "blast-off",
-      "source": { "source": "github", "repo": "z0rd0n88/blast-off" },
-      "strict": false,
-      "description": "Runs a multi-phase coding job unattended overnight as a chain of Claude sessions under systemd.",
-      "author": { "name": "z0rd0n88" },
-      "homepage": "https://github.com/z0rd0n88/blast-off"
-    },
-    {
       "name": "yt-eval",
       "source": { "source": "github", "repo": "z0rd0n88/yt-eval" },
       "strict": false,

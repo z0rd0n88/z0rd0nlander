@@ -22,7 +22,7 @@ Plugin names are lowercase letters, numbers and hyphens only, and a plugin must 
 | compact-courier | A Compact button that summarizes with Haiku | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
 | next-action-hero | Buttons for the choices Claude's last reply offered | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
 | fraktur-footer | Footer mode labels in Fraktur letters | [z0rd0n88/claude-mod-ity](https://github.com/z0rd0n88/claude-mod-ity) |
-| jev-pruner | Trims long Bash output with Jev | [z0rd0n88/JevDev](https://github.com/z0rd0n88/JevDev) |
+| jev-pruner | Trims long Bash output with Jev | [z0rd0n88/jev-dev](https://github.com/z0rd0n88/jev-dev) |
 | yt-eval | YouTube videos into a fact-checked writeup | [z0rd0n88/yt-eval](https://github.com/z0rd0n88/yt-eval) |
 | my-skills | Personal skills plus credited third-party copies | [z0rd0n88/my-skills](https://github.com/z0rd0n88/my-skills) |
 | inventory | One file listing every hook, skill, plugin, agent and MCP server in scope | [z0rd0n88/claude-code-inventory](https://github.com/z0rd0n88/claude-code-inventory) |

@@ -110,13 +110,13 @@
       "name": "jev-pruner",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/z0rd0n88/JevDev.git",
+        "url": "https://github.com/z0rd0n88/jev-dev.git",
         "path": "pruner",
         "ref": "main"
       },
       "description": "Trims long Bash output with Jev through OpenRouter before the model sees it.",
       "author": { "name": "z0rd0n88" },
-      "homepage": "https://github.com/z0rd0n88/JevDev"
+      "homepage": "https://github.com/z0rd0n88/jev-dev"
     },
     {
       "name": "yt-eval",

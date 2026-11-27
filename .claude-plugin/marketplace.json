@@ -126,14 +126,6 @@
       "homepage": "https://github.com/z0rd0n88/JevDev"
     },
     {
-      "name": "session-stickler",
-      "source": { "source": "github", "repo": "z0rd0n88/session-stickler" },
-      "strict": false,
-      "description": "Manage background agent sessions: free memory under RAM pressure, relay to them without tmux, and hand work to a new session.",
-      "author": { "name": "z0rd0n88" },
-      "homepage": "https://github.com/z0rd0n88/session-stickler"
-    },
-    {
       "name": "blast-off",
       "source": { "source": "github", "repo": "z0rd0n88/blast-off" },
       "strict": false,
